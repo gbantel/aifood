@@ -1,0 +1,9 @@
+.venv-headroom/
+.headroom/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+# Configuracao MCP gerada para o caminho desta maquina.
+.codex/config.toml

@@ -1,0 +1,2 @@
+# Runtime integrado; atualizar somente depois de validar Codex + proxy + MCP.
+headroom-ai[proxy]==0.37.0
